@@ -11,3 +11,6 @@
 
 <h4>Login sebagai admin untuk melakukan input transaksi</h4>
 <h4>Login sebagai developer untuk melakukan input transaksi dan melakukan tambah user baru</h4>
+<br><br><br>
+
+<h5>*Website masih dalam proses pengembangan</h5>
